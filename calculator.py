@@ -1,7 +1,7 @@
 # calculator.py - Created by Hafsa Shabbeer
 
 def add(a, b):
-    return a + b
+    return a - b
 
 
 def subtract(a, b):
